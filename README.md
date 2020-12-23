@@ -4,7 +4,7 @@
 
 ### These are some of my favorite projects:
 
-- [X] [Fizz](https://github.com/computer-geek64/fizz) - Fizz is an interactive personal financial consultant perfect for providing the beginning investor with insight rivaling that of financial experts.
+- [X] [Fizz](https://github.com/computer-geek64/fizz) - Fizz is an interactive personal financial consultant perfect for providing the beginning investor with insight rivaling that of financial experts. Fizz was developed at HackGT 7 and won the BlackRock challenge.
 
 - [X] [Blackout](https://github.com/computer-geek64/blackout) - An automated Git history rewriter for sensitive information 
 
