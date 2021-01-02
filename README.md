@@ -4,6 +4,8 @@
 
 ### These are some of my favorite projects:
 
+- [X] [Huffskew](https://github.com/computer-geek64/huffskew) - An optimization of the Huffman compression algorithm for highly skewed alphabet distributions
+
 - [X] [Fizz](https://github.com/computer-geek64/fizz) - Fizz is an interactive personal financial consultant perfect for providing the beginning investor with insight rivaling that of financial experts. Fizz was developed at HackGT 7 and won the BlackRock challenge.
 
 - [X] [Blackout](https://github.com/computer-geek64/blackout) - An automated Git history rewriter for sensitive information 
@@ -18,6 +20,4 @@
 
 - [X] [MileSnap](https://github.com/computer-geek64/milesnap) - MileSnap is an application that allows a user to take a picture of a gas station pricing sign and recieve the fuel type and its corresponding price. MileSnap was developed at HackGT 6 and won the PDI Challenge.
 
-### Here are some other cool projects I'm currently working on:
-
-- [ ] [Huffskew](https://github.com/computer-geek64/huffskew) - An optimization of the Huffman compression algorithm for highly skewed alphabet distributions
+<!--### Here are some other cool projects I'm currently working on:-->
