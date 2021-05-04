@@ -22,4 +22,6 @@
 
 - [X] [MileSnap](https://github.com/computer-geek64/milesnap) - MileSnap is an application that allows a user to take a picture of a gas station pricing sign and recieve the fuel type and its corresponding price. MileSnap was developed at HackGT 6 and won the PDI Challenge.
 
-<!--### Here are some other cool projects I'm currently working on:-->
+### Here are some other cool projects I'm currently working on:
+
+- [ ] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process
