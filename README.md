@@ -1,6 +1,6 @@
 # Hi there 👋  <img src="https://visitor-badge.glitch.me/badge?page_id=computer-geek64.visitor-badge" align="right">
 
-### I'm an SDE Intern at Amazon and a Computer Science student at Georgia Tech
+### I'm an SDE Intern at Amazon and a Computer Science student at Georgia Tech <img src="https://img.shields.io/badge/Amazon-Intern-ff9900?style=flat&labelColor=gray&logo=Amazon&logoColor=ff9900" align="right">
 
 ## Do you speak my language?
 
