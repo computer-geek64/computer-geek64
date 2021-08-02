@@ -1,29 +1,34 @@
-# Hi there 👋
+# Hi there 👋  <img src="https://visitor-badge.glitch.me/badge?page_id=computer-geek64.visitor-badge" align="right">
 
-## I'm a Computer Science student at Georgia Tech and an SDE Intern at Amazon
+### I'm an SDE Intern at Amazon and a Computer Science student at Georgia Tech
 
-### These are some of my favorite projects:
+## Do you speak my language?
 
-- [X] [Dotfiles](https://github.com/computer-geek64/dotfiles) - My custom desktop environment configuration for i3-gaps
+![Python](https://img.shields.io/badge/Python-★★★-gray?style=for-the-badge&labelColor=3776ab&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-★★★-gray?style=for-the-badge&labelColor=f0931f&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-★★★-gray?style=for-the-badge&labelColor=00599c&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-★★★-gray?style=for-the-badge&labelColor=a8b9cc&logo=C&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-★★★-gray?style=for-the-badge&labelColor=4eaa25&logo=GNU%20Bash&logoColor=white)
 
-- [X] [Huffskew](https://github.com/computer-geek64/huffskew) - An optimization of the Huffman compression algorithm for highly skewed alphabet distributions
+![LaTeX](https://img.shields.io/badge/LaTeX-★★★-gray?style=for-the-badge&labelColor=008080&logo=LaTeX&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-★★★-gray?style=for-the-badge&labelColor=cc2927&logo=PostgreSQL&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-★★★-gray?style=for-the-badge&labelColor=e34f26&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-★★★-gray?style=for-the-badge&labelColor=1572b6&logo=CSS3&logoColor=white)
 
-- [X] [Politify](https://github.com/computer-geek64/politify) - A tool to determine the political bias among public figures by analyzing their tweets with natural language processing. Politify was developed at TreeHacks 2021.
+![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-gray?style=for-the-badge&labelColor=f7df1e&logo=JavaScript&logoColor=black)
+![Perl](https://img.shields.io/badge/Perl-★★☆-gray?style=for-the-badge&labelColor=39457e&logo=Perl&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-★☆☆-gray?style=for-the-badge&labelColor=cc342d&logo=Ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-★☆☆-gray?style=for-the-badge&labelColor=777bb4&logo=PHP&logoColor=white)
+![R](https://img.shields.io/badge/R-★☆☆-gray?style=for-the-badge&labelColor=276dc3&logo=R&logoColor=white)
 
-- [X] [Fizz](https://github.com/computer-geek64/fizz) - Fizz is an interactive personal financial consultant perfect for providing the beginning investor with insight rivaling that of financial experts. Fizz was developed at HackGT 7 and won the BlackRock challenge.
+### Check out my [website](https://ashishdsouza.com) and [résumé](https://ashishdsouza.com/files/Resume.pdf) to learn more about what I can do!
 
-- [X] [Blackout](https://github.com/computer-geek64/blackout) - An automated Git history rewriter for sensitive information 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=computer-geek64&show_icons=true&include_all_commits=true&count_private=true&hide=contribs">
+</div>
 
-- [X] [Firestorm](https://github.com/computer-geek64/firestorm) - My personal headless CentOS 8 server with a custom-built web interface
+### Here are some cool projects that I'm currently working on:
 
-- [X] [TimeLock](https://github.com/computer-geek64/timelock) - A time-lock encryption program, which relies on a verified time server source to prevent falsified decryption attempts.
+- [X] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process
 
-- [X] [Covid-19 Survival Calculator](https://github.com/computer-geek64/covid19-survival-calculator) - A survival probability calculator for the Coronavirus, made for the COVID-19 Global Hackathon.
-
-- [X] [ALRT](https://github.com/computer-geek64/alrt) - ALRT (Automated Life Rescue Tracker) is an application that aims to tackle the challenge of finding victims of natural disasters when weather conditions cause power and connection loss. This was made for the Swamphacks VI Hackathon.
-
-- [X] [MileSnap](https://github.com/computer-geek64/milesnap) - MileSnap is an application that allows a user to take a picture of a gas station pricing sign and recieve the fuel type and its corresponding price. MileSnap was developed at HackGT 6 and won the PDI Challenge.
-
-### Here are some other cool projects I'm currently working on:
-
-- [ ] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process
+- [ ] [Parallel Sort](https://github.com/computer-geek64/parallel-sort) - A Python package for parallel sorting algorithms with CUDA support using C++
