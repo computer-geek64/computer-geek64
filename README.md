@@ -31,4 +31,4 @@
 
 - [X] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process
 
-- [ ] [Parallel Sort](https://github.com/computer-geek64/parallel-sort) - A Python package for parallel sorting algorithms with CUDA support using C++
+- [ ] [Personal VPN](https://github.com/computer-geek64/personal-vpn) - A personal OpenVPN server for my home lab network
