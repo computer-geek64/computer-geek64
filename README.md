@@ -29,8 +29,8 @@
 
 ### Here are some cool projects that I'm currently working on:
 
-- [X] [Guardian](https://github.com/computer-geek64/guardian) - Personal home surveillance and CCTV system. Features motion detection and push notifications, as well as real-time streaming over native HTTP for both audio and video.
+<!--- [X] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process-->
 
-- [X] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process
+- [X] [Guardian](https://github.com/computer-geek64/guardian) - Personal home surveillance and CCTV system. Features motion detection and push notifications, as well as real-time streaming over native HTTP for both audio and video.
 
 - [X] [Personal VPN](https://github.com/computer-geek64/personal-vpn) - A personal OpenVPN server for my home lab network
