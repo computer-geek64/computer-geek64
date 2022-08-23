@@ -1,17 +1,21 @@
 # Hi there 👋  <img src="https://visitor-badge.glitch.me/badge?page_id=computer-geek64.visitor-badge" align="right">
 
-### I'm an SDE Intern at Amazon and a Computer Science student at Georgia Tech <img src="https://img.shields.io/badge/Amazon-Intern-ff9900?style=flat&labelColor=gray&logo=Amazon&logoColor=ff9900" align="right">
+### I'm a SWE Intern at <ins>Citadel Securities</ins> and a Computer Science student at Georgia Tech
+
+I previously interned at **Akuna Capital**, **Amazon**, and **MerchLogix**.
+
+<!-- img src="https://img.shields.io/badge/Amazon-Intern-ff9900?style=flat&labelColor=gray&logo=Amazon&logoColor=ff9900" align="right" -->
 
 ## Do you speak my language?
 
 ![Python](https://img.shields.io/badge/Python-★★★-gray?style=for-the-badge&labelColor=3776ab&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-★★★-gray?style=for-the-badge&labelColor=f0931f&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-★★★-gray?style=for-the-badge&labelColor=00599c&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-★★★-gray?style=for-the-badge&labelColor=a8b9cc&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-★★★-gray?style=for-the-badge&labelColor=f0931f&logo=Java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-★★★-gray?style=for-the-badge&labelColor=4eaa25&logo=GNU%20Bash&logoColor=white)
 
-![LaTeX](https://img.shields.io/badge/LaTeX-★★★-gray?style=for-the-badge&labelColor=008080&logo=LaTeX&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★★-gray?style=for-the-badge&labelColor=cc2927&logo=PostgreSQL&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-★★★-gray?style=for-the-badge&labelColor=008080&logo=LaTeX&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-★★★-gray?style=for-the-badge&labelColor=e34f26&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-★★★-gray?style=for-the-badge&labelColor=1572b6&logo=CSS3&logoColor=white)
 
@@ -32,5 +36,7 @@
 <!--- [X] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process-->
 
 - [X] [Guardian](https://github.com/computer-geek64/guardian) - Personal home surveillance and CCTV system. Features motion detection and push notifications, as well as real-time streaming over native HTTP for both audio and video.
+
+- [X] [NAS](https://github.com/computer-geek64/nas) - New NAS stack for my home lab, featuring NFS, SMB, FTP, SSH, Nextcloud, and my own custom web services.
 
 - [X] [Personal VPN](https://github.com/computer-geek64/personal-vpn) - A personal OpenVPN server for my home lab network
