@@ -35,8 +35,6 @@ I previously interned at **Akuna Capital**, **Amazon**, and **MerchLogix**.
 
 <!--- [X] [Pistache Addons](https://github.com/computer-geek64/pistache-addons) - A C++ library that includes additions and modifications for the Pistache REST framework to simplify the application development process-->
 
-- [X] [Guardian](https://github.com/computer-geek64/guardian) - Personal home surveillance and CCTV system. Features motion detection and push notifications, as well as real-time streaming over native HTTP for both audio and video.
+<!-- - [ ] [Guardian](https://github.com/computer-geek64/guardian) - Personal home surveillance and CCTV system. Features motion detection and push notifications, as well as real-time streaming over native HTTP for both audio and video.-->
 
-- [X] [NAS](https://github.com/computer-geek64/nas) - New NAS stack for my home lab, featuring NFS, SMB, FTP, SSH, Nextcloud, and my own custom web services.
-
-- [X] [Personal VPN](https://github.com/computer-geek64/personal-vpn) - A personal OpenVPN server for my home lab network
+- [X] [Frigate](https://gitea.ashishdsouza.com/ashish/frigate) - Open-source NVR software with AI object detection, deployed as a home surveillance system. I developed a finely-tuned notification system on top of Frigate, as well as a secondary API to implement additional controls via the web. While I did not make Frigate itself, I use it as the successor to my [Guardian](https://github.com/computer-geek64/guardian/tree/develop) project (which I developed from scratch) due to its superior machine learning features that provide more accurate event detection (Guardian relied solely on motion detection and had too many false positives).
