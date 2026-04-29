@@ -21,12 +21,12 @@ I previously worked at **Citadel Securities**, **Amazon**, and **MerchLogix**.
 
 ![Scala](https://img.shields.io/badge/Scala-★☆☆-gray?style=for-the-badge&labelColor=de3423&logo=scala&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-★☆☆-gray?style=for-the-badge&labelColor=000080&logo=lua&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-★☆☆-gray?style=for-the-badge&labelColor=39457e&logo=perl&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-★☆☆-gray?style=for-the-badge&labelColor=cc342d&logo=ruby&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-★☆☆-gray?style=for-the-badge&labelColor=39457e&logo=perl&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-★☆☆-gray?style=for-the-badge&labelColor=777bb4&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-★☆☆-gray?style=for-the-badge&labelColor=276dc3&logo=r&logoColor=white)
 
-### Check out my [website](https://ashishdsouza.com) and [résumé](https://ashishdsouza.com/files/Resume.pdf) to learn more about what I can do!
+### Check out my [website](https://ashishdsouza.com) and [résumé](https://ashishdsouza.com/assets/doc/resume.pdf) to learn more about what I can do!
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=computer-geek64&show_icons=true&include_all_commits=true&count_private=true&hide=contribs">
@@ -34,5 +34,6 @@ I previously worked at **Citadel Securities**, **Amazon**, and **MerchLogix**.
 
 ### Here are some cool projects that I'm currently working on:
 
+- [X] [LeetCode Tracker](https://github.com/computer-geek64/leetcode-tracker) - LeetCode submission monitor to promote consistency and growth in a friendly competition
 - [X] [EmBoxd](https://github.com/computer-geek64/emboxd) - Live sync server for updating Letterboxd with movies watched on Emby
-- [X] [Frigate](https://gitea.ashishdsouza.com/ashish/frigate) - Open-source NVR software with AI object detection, deployed as a home surveillance system. I developed a finely-tuned notification system on top of Frigate, as well as a secondary API to implement additional controls via the web. While I did not make Frigate itself, I use it as the successor to my [Guardian](https://github.com/computer-geek64/guardian/tree/develop) project (which I developed from scratch) due to its superior machine learning features that provide more accurate event detection (Guardian relied solely on motion detection and had too many false positives).
+- [X] [Frigate](https://gitea.ashishdsouza.com/ashish/frigate) - Open-source NVR software with AI object detection, deployed as a home surveillance system. I developed a finely-tuned notification system on top of Frigate, as well as a secondary API to implement additional controls via the web. While I did not make Frigate itself, I use it as the successor to my [Guardian](https://github.com/computer-geek64/guardian) project (which I developed from scratch) due to its superior machine learning features that provide more accurate event detection (Guardian relied solely on motion detection and had too many false positives).
